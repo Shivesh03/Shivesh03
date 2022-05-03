@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivesh03
+- 👋 Hi, I’m Shivesh Gupta
 - 👀 I’m interested in learning new things about tech related stuff.
 - 🌱 I’m currently pursuing my B.E.(CSE) from Chandigarh University.
 - 🥸 I'm currently learning about DevOps and Java.
